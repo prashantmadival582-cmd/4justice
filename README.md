@@ -73,7 +73,3 @@ Testing
 
 All current APIs have been tested using Postman.
 
-
-Prashant S Madival
-
-GitHub: https://github.com/prashantmadival582-c
