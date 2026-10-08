@@ -76,7 +76,4 @@ All current APIs have been tested using Postman.
 
 Prashant S Madival
 
-GitHub: https://github.com/prashantmadival582-cmd
-
-
-This is enough for your **current stage**—simple, clean, and easy for your team/client to understand.api/admin/login
+GitHub: https://github.com/prashantmadival582-c
