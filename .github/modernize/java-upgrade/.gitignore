@@ -1,0 +1,24 @@
+@'
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Backend
+backend/4justice/target/
+backend/4justice/uploads/
+backend/4justice/.vscode/
+backend/4justice/.kilo/
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/application-local.properties
+
+# IDE
+.vscode/
+.idea/
+backend/.vscode/
+'@ | Set-Content .gitignore

@@ -1,0 +1,19 @@
+# React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Spring Boot backend
+backend/4justice/target/
+backend/4justice/.env
+backend/4justice/.env.*
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
